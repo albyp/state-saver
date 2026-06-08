@@ -1,2 +1,4 @@
 # Remove local files (statements and outputs)
 local/
+output/
+report/
