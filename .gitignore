@@ -2,3 +2,6 @@
 local/
 output/
 report/
+
+# Python
+__pycache__/
